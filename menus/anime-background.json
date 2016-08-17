@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "anime-background",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "anime-background:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

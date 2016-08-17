@@ -1,0 +1,21 @@
+{
+  "name": "anime-background",
+  "main": "./lib/anime-background",
+  "version": "0.0.0",
+  "description": "A package for dispaly an anime character in background",
+  "keywords": [
+      "live2d",
+      "anime",
+      "background"
+  ],
+  "activationCommands": {
+    "atom-workspace": "anime-background:toggle"
+  },
+  "repository": "https://github.com/Illyrix/anime-background.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
